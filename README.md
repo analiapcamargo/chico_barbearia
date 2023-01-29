@@ -11,10 +11,10 @@
 
 ## Preview
 
-![Preview](/image/site1.png "Demonstração")
+![Preview](/site1.png "Demonstração")
 
 
-![Preview](/image/site2.png "Demonstração")
+![Preview](/site2.png "Demonstração")
 
 ## Links
 
