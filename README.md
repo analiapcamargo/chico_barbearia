@@ -3,7 +3,7 @@
 
 ## HTML e CSS básicos
 
-
+* Responsivo para dispositivos móveis
 * Lista não ordenada
 * Menu com âncora
 * Navegação entre páginas
