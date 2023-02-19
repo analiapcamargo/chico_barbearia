@@ -14,7 +14,7 @@
 ![Preview](/assets/preview1.png "Demonstração")
 
 
-![Preview](/assets/preview22.png "Demonstração")
+![Preview](/assets/preview2.png "Demonstração")
 
 ## Links
 
