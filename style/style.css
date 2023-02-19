@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url('/assets/madeira.jpg');
+    background: url('../assets/madeira.jpg');
     width: 100vw;
 }
 
