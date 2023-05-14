@@ -1,12 +1,11 @@
-# Projeto Chico Barbearia
+# Project Chico Barbearia
 
 
-## HTML e CSS básicos
+## Basic HTML and CSS 
 
-* Responsivo para dispositivos móveis
-* Lista não ordenada
-* Menu com âncora
-* Navegação entre páginas
+* Responsive to all screens
+* Unordered List
+
 
 
 ## Preview
